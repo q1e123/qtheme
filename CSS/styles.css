@@ -21,7 +21,7 @@ body{
 }
 
 .accordion h1{
-    color: white;
+    color: white !important;
 }
 
 .content h1{
